@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - APlusB",
+            "request": "launch",
+            "mainClass": "APlusB",
+            "projectName": "Baek-Algorithm_5d944d9a"
+        }
+    ]
+}
