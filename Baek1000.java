@@ -1,6 +1,6 @@
 import java.util.*;
 
-class APlusB{
+class Baek1000{
 
 
   public static void main(String[] args) {
